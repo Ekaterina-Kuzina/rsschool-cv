@@ -16,9 +16,9 @@ My path began with courses in web design, due to this I learned about layout and
 
 I graduated from St. Petersburg University (bachelor's and master's degrees) with a degree in chemical engineer. During my graduate studies, I was a participant in the "Work and Travel" program and lived in America for 6 months.
 
-I worked as a chemical engineer about a year. The understanding that the specialty is interesting, but not mine, came during the learning process. During my last year in university and working like a chemical engineer i was totally obsessed with development and spend all my free time for that . 
+I worked as a chemical engineer about a year. The understanding that the specialty is interesting, but not mine, came during the learning process. During my last year in university and working like a chemical engineer I was totally obsessed with development and spend all my free time for that . 
 
-I'm totaly sure that frontent development is my goal and I do my best!!! 
+I'm totally sure that frontend development is my goal and I do my best!!! 
 ### Skills
 ***
 - HTML(HTML5)
