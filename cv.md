@@ -51,3 +51,12 @@ export function createSpan(textLettersArr) {
     });
 }
 ```
+
+### Education
+
+| Period        | University / couse |
+| ------------- | -------------------|
+| 2014-2018     | Saint-Petersburg State Institute of Technology (Faculty: Chemical and biotechnology) |
+| 2018-2020     | Saint-Petersburg State Institute of Technology (Faculty: Chemistry of substances and materials)(masters degree) |
+| 2019-2020     | Udemy courses 'Web-developer', 'JavaScript - developer', self studying by youTube, docs and etc  |
+| 2021          | Yandex course(React-developer), RSSchool course |
